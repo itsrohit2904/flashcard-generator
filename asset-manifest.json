@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flashcard-generator/static/css/main.3897dd4a.css",
+    "main.js": "/flashcard-generator/static/js/main.a339258e.js",
+    "static/js/239.bdb0c7a1.chunk.js": "/flashcard-generator/static/js/239.bdb0c7a1.chunk.js",
+    "static/js/213.57cc9360.chunk.js": "/flashcard-generator/static/js/213.57cc9360.chunk.js",
+    "static/js/455.eba21457.chunk.js": "/flashcard-generator/static/js/455.eba21457.chunk.js",
+    "static/media/logo.jpeg": "/flashcard-generator/static/media/logo.0520b4e71803d02bbd91.jpeg",
+    "index.html": "/flashcard-generator/index.html",
+    "main.3897dd4a.css.map": "/flashcard-generator/static/css/main.3897dd4a.css.map",
+    "main.a339258e.js.map": "/flashcard-generator/static/js/main.a339258e.js.map",
+    "239.bdb0c7a1.chunk.js.map": "/flashcard-generator/static/js/239.bdb0c7a1.chunk.js.map",
+    "213.57cc9360.chunk.js.map": "/flashcard-generator/static/js/213.57cc9360.chunk.js.map",
+    "455.eba21457.chunk.js.map": "/flashcard-generator/static/js/455.eba21457.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3897dd4a.css",
+    "static/js/main.a339258e.js"
+  ]
+}
