@@ -1,0 +1,33 @@
+/* ViewCard.css */
+
+@media (max-width: 767px) {
+    .container{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+     /* .w-1/4{
+      width: 100%;
+      margin-top : 1rem;
+    } */
+    
+  
+    .ml-8{
+      width: 100%;
+      margin-top: 1rem; /* Space between right column and main content */
+    }
+  
+    .button-group{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: auto; /* Pushes buttons to the bottom */
+    }
+  
+    .button{
+      width: 100%;
+      margin-bottom: 0.5rem; /* Adjust spacing between buttons */
+    }
+  }
+  

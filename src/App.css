@@ -1,0 +1,34 @@
+/* Default styles */
+
+/* Example of a base container style */
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+  }
+  
+  /* Media query for tablets and smaller screens */
+  @media (max-width: 768px) {
+    /* Example of adjusting container width */
+    .container {
+      max-width: 100%;
+    }
+  }
+  
+  /* Media query for mobile devices */
+  @media (max-width: 480px) {
+    /* Example of adjusting font size */
+    body {
+      font-size: 14px;
+    }
+  
+    /* Example of adjusting padding */
+    .container {
+      padding: 0 10px;
+    }
+  }
+  
+  /* Add more media queries as needed */
+/* Default styles */
+
+/
